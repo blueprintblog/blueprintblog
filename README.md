@@ -58,7 +58,7 @@ Acreditamos em:
 ## 🌐 Conecte-se
 
 - **Blog:** [blueprintblog.tech](https://blueprintblog.tech)
-- **LinkedIn:** [Dev Full Stack & Builder de APIs]((https://www.linkedin.com/in/genildo-cerqueira-91888786/))
+- **LinkedIn:** [Dev Full Stack & Builder de APIs](https://www.linkedin.com/in/genildo-cerqueira-91888786/)
 - **Discord/Comunidade:** [Em breve]
 
 ---
