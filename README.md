@@ -66,9 +66,9 @@ Acreditamos em:
 ## 📝 Posts Recentes do Blog
 
 Confira nossos deep-dives técnicos sobre:
-- React Query + Suspense + Error Boundaries
-- Configurando CMS + API em produção do zero
-- Segurança de infraestrutura: Fail2Ban, UFW, Docker hardening
+- [React Query + Suspense + Error Boundaries](https://www.blueprintblog.tech/posts/a-trindade-de-data-loading-do-react-query-suspense-error-boundaries) 
+- [Bash: Por Que Todo Desenvolvedor Deveria Abraçar o Terminal (E Parar de Ter Medo)](https://www.blueprintblog.tech/posts/bash-por-que-todo-desenvolvedor-deveria-abracar-o-terminal-e-parar-de-ter-medo)
+- [Django: O Framework "Batteries-Included" Que Superou o JavaScript](https://www.blueprintblog.tech/posts/django-o-framework-batteries-included-que-superou-o-javascript)
 
 ---
 
